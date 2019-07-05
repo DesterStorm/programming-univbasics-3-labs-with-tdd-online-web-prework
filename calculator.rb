@@ -1,4 +1,4 @@
-first_variable = 5
+first_number = 5
 second_number = 2
 
 
