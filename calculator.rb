@@ -1,4 +1,4 @@
-first_variable = Integer or Float
-second_number = Integer or Float.not(0)
+first_variable = 5
+second_number = 2
 
 
